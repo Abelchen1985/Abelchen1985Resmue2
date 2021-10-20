@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Weiyuan Chen
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
+    email: abelchen1985@gmail.com
     phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    website: abelchen1985.github.io #do not add http://
+    linkedin: www.linkedin.com/in/weiyuanchen
+    github: Abelchen1985
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    #twitter: '@BiagioBrattoli'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
